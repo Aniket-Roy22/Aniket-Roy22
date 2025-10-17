@@ -1,8 +1,8 @@
 ```
  __   __   __  __   __      __        			Hi there, I'm Aniket. I go by Null online.
-/\ "-.\ \ /\ \/\ \ /\ \    /\ \       				-I'm an IT student from India.
-\ \ \-.  \\ \ \_\ \\ \ \___\ \ \___  				-I enjoy making random projects.
- \ \_\\"\_\\ \_____\\ \____\\ \____\ 				-I spend too much time on refactoring T_T
+/\ "-.\ \ /\ \/\ \ /\ \    /\ \       				-An IT student from India.
+\ \ \-.  \\ \ \_\ \\ \ \___\ \ \___  				-Enjoys making random projects.
+ \ \_\\"\_\\ \_____\\ \____\\ \____\ 				-Spends too much time on refactoring T_T
   \/_/ \/_/ \/_____/ \/____/ \/____/ 
 ```
 ---
