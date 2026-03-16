@@ -15,13 +15,10 @@
 
 ## 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket-roy22&show_icons=true&locale=en&layout=compact" alt="aniket-roy22" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniket-roy22&show_icons=true&locale=en" alt="aniket-roy22" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniket-roy22&" alt="aniket-roy22" /></p>
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aniket-Roy22&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aniket-Roy22&icon=8&color=8)](https://visitcount.itsvg.in)
